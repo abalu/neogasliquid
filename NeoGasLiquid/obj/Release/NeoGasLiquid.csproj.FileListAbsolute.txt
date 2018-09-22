@@ -1,0 +1,6 @@
+C:\projects\NeoGasLiquid\NeoGasLiquid\bin\Release\NeoGasLiquid.dll
+C:\projects\NeoGasLiquid\NeoGasLiquid\bin\Release\Neo.SmartContract.Framework.dll
+C:\projects\NeoGasLiquid\NeoGasLiquid\obj\Release\NeoGasLiquid.csprojAssemblyReference.cache
+C:\projects\NeoGasLiquid\NeoGasLiquid\obj\Release\NeoGasLiquid.csproj.CoreCompileInputs.cache
+C:\projects\NeoGasLiquid\NeoGasLiquid\obj\Release\NeoGasLiquid.csproj.CopyComplete
+C:\projects\NeoGasLiquid\NeoGasLiquid\obj\Release\NeoGasLiquid.dll
