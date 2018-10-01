@@ -5,6 +5,11 @@ This is a Smart Contract for lending GAS.
 
 Actual status: fast prototype – not ready for production environment (see future work). 
 
+# UPDATE
+Since transfering global assets into Smart-Contracts have been limited, this concept has to be rethinked:
+"However, due to the limitations and security considerations of NEO smart contracts, it is not possible to transfer global assets (such as NEO or GAS) into smart contracts." See: https://medium.com/neo-smart-economy/15-things-you-should-know-about-cneo-and-cgas-1029770d76e0
+I am working on how the purpose of this Smart-Contract can be achieved with CNEO and CGAS. 
+
 # Preface
 NEO is the governing Coin of the NEO Smart Economy. For staking NEO in a personal Wallet you will receive GAS as a reward. GAS is the Token that powers the NEO Blockchain, the Utility-Token. Users of the Blockchain pay fees in GAS to deploy and run NEO Smart Contracts, since the computing resources consumed by the contract need to be paid.  GAS is generated at a rate of 8 GAS per Block of the NEO Blockchain and is equally distributed to the NEO holders. The rate of production is reduced by 1 token for every 2 million blocks generated. Currently about two Blocks in a minute are generated.   
 
